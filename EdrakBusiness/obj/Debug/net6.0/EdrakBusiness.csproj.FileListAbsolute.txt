@@ -1,0 +1,17 @@
+C:\Users\Fady.Riad\source\repos\EdrakAPI\EdrakBusiness\bin\Debug\net6.0\EdrakBusiness.deps.json
+C:\Users\Fady.Riad\source\repos\EdrakAPI\EdrakBusiness\bin\Debug\net6.0\EdrakBusiness.dll
+C:\Users\Fady.Riad\source\repos\EdrakAPI\EdrakBusiness\bin\Debug\net6.0\EdrakBusiness.pdb
+C:\Users\Fady.Riad\source\repos\EdrakAPI\EdrakBusiness\bin\Debug\net6.0\Domain.dll
+C:\Users\Fady.Riad\source\repos\EdrakAPI\EdrakBusiness\bin\Debug\net6.0\Persistence.dll
+C:\Users\Fady.Riad\source\repos\EdrakAPI\EdrakBusiness\bin\Debug\net6.0\Persistence.pdb
+C:\Users\Fady.Riad\source\repos\EdrakAPI\EdrakBusiness\bin\Debug\net6.0\Domain.pdb
+C:\Users\Fady.Riad\source\repos\EdrakAPI\EdrakBusiness\obj\Debug\net6.0\EdrakBusiness.csproj.AssemblyReference.cache
+C:\Users\Fady.Riad\source\repos\EdrakAPI\EdrakBusiness\obj\Debug\net6.0\EdrakBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fady.Riad\source\repos\EdrakAPI\EdrakBusiness\obj\Debug\net6.0\EdrakBusiness.AssemblyInfoInputs.cache
+C:\Users\Fady.Riad\source\repos\EdrakAPI\EdrakBusiness\obj\Debug\net6.0\EdrakBusiness.AssemblyInfo.cs
+C:\Users\Fady.Riad\source\repos\EdrakAPI\EdrakBusiness\obj\Debug\net6.0\EdrakBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Fady.Riad\source\repos\EdrakAPI\EdrakBusiness\obj\Debug\net6.0\EdrakBusiness.csproj.CopyComplete
+C:\Users\Fady.Riad\source\repos\EdrakAPI\EdrakBusiness\obj\Debug\net6.0\EdrakBusiness.dll
+C:\Users\Fady.Riad\source\repos\EdrakAPI\EdrakBusiness\obj\Debug\net6.0\refint\EdrakBusiness.dll
+C:\Users\Fady.Riad\source\repos\EdrakAPI\EdrakBusiness\obj\Debug\net6.0\EdrakBusiness.pdb
+C:\Users\Fady.Riad\source\repos\EdrakAPI\EdrakBusiness\obj\Debug\net6.0\ref\EdrakBusiness.dll
